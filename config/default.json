@@ -1,0 +1,12 @@
+{
+
+    "db_Url":"mongodb://127.0.0.1:27017/Web_socket",
+    "jwt_token_secret":"thisismytoken",
+
+
+    "nodemailer":{
+        "mail":"smit.semicolon@gmail.com",  
+        "password":"mzdpjhmffmqrpkha"
+
+    }
+}   
